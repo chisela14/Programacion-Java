@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;RecanguloExcepcion.java&apos; to &apos;RectanguloException.java&apos;&#x0A;- Original project: &apos;EjerciciosClases&apos;&#x0A;- Original element: &apos;RecanguloExcepcion.java&apos;&#x0A;- Renamed element: &apos;RectanguloException.java&apos;" description="Rename compilation unit &apos;RecanguloExcepcion.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{RecanguloExcepcion.java" name="RectanguloException.java" references="false" stamp="1644498801272" version="1.0"/>
+</session>

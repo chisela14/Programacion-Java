@@ -1,0 +1,5 @@
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>Merge branch &apos;main&apos; of&\#x0A;https\://github.com/chisela14/Entornos-de-desarrollo.git into main&\#x0A;&\#x0A;Conflicts\:&\#x0A;&\#x09;src/eedd_test/HolaMundo.java&\#x0A;</message>\n<message>b</message>\n<message>a</message>\n<message>cambio comentario</message>\n<message>Merge branch &apos;3-color-letra&apos; of&\#x0A;https\://github.com/chisela14/Entornos-de-desarrollo.git into main</message>\n<message>hola mundo</message>\n</messages>
+eclipse.preferences.version=1
+repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\n<FilterCache/>
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300

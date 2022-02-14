@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.egit.core.cmp</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src1/HolaMundo.java</name>
+			<type>1</type>
+			<locationURI>egit-internal:///home/estudiante/Documents/ED/Git/Entornos-de-desarrollo/.git/$7$WORKTREE:o7/src/eedd_test/HolaMundo.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

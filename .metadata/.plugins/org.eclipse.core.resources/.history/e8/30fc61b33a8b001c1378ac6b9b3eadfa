@@ -1,0 +1,10 @@
+package eedd_test;
+
+public class HolaMundo {
+
+	public static void main(String[] args) {
+		// Esto es una prueba de conflicto
+		System.out.println("Hola mundo");
+	}
+
+}
