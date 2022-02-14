@@ -12,8 +12,6 @@ public class Rectangulo {
 		this.ancho = 1;
 		//te pide que el constructor cree por defecto así que no hace falta pasarle nada
 	}
-	//excep
-	public Rectangulo{}
 	
 	//calcular perimetro y area con los datos por defecto, no se pasa nada
 	public double calcularPerimetro () {
