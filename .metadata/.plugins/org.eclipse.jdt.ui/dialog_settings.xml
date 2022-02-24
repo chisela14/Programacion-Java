@@ -102,4 +102,63 @@
 		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
 		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_LOCATION" value="false"/>
 	</section>
+	<section name="JavadocWizardDialog">
+		<item key="DIALOG_X_ORIGIN" value="733"/>
+		<item key="DIALOG_Y_ORIGIN" value="198"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="624"/>
+		<item key="DIALOG_FONT_NAME" value="1|Cantarell|11.0|0|GTK|1|"/>
+	</section>
+	<section name="javadoc">
+		<item key="javadoc_command_history" value="/home/estudiante/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_16.0.2.v20210721-1149/jre/bin/javadoc"/>
+		<item key="fromStandard" value="true"/>
+		<item key="docletname" value=""/>
+		<item key="docletpath" value=""/>
+		<item key="access" value="public"/>
+		<item key="use" value="true"/>
+		<item key="author" value="true"/>
+		<item key="version" value="true"/>
+		<item key="nodeprecated" value="false"/>
+		<item key="nodeprecatedlist" value="false"/>
+		<item key="splitindex" value="true"/>
+		<item key="noindex" value="false"/>
+		<item key="notree" value="false"/>
+		<item key="nonavbar" value="false"/>
+		<item key="openinbrowser" value="false"/>
+		<item key="source" value="16"/>
+		<item key="antpath" value="/home/estudiante/Documents/Programación/Relacion7/javadoc.xml"/>
+		<item key="destdir" value="/home/estudiante/Documents/Programación/Relacion7/doc"/>
+		<section name="projects">
+			<section name="EjerciciosClases">
+				<item key="href" value=""/>
+				<item key="destdir" value="/home/estudiante/Documents/Programación/EjerciciosClases/doc"/>
+				<item key="antpath" value="/home/estudiante/Documents/Programación/EjerciciosClases/javadoc.xml"/>
+			</section>
+			<section name="eedd_test">
+				<item key="href" value=""/>
+				<item key="destdir" value="/home/estudiante/Documents/ED/Git/Entornos-de-desarrollo/doc"/>
+				<item key="antpath" value="/home/estudiante/Documents/ED/Git/Entornos-de-desarrollo/javadoc.xml"/>
+			</section>
+			<section name="notasAlumnos">
+				<item key="href" value=""/>
+				<item key="destdir" value="/home/estudiante/Documents/Programación/notasAlumnos/doc"/>
+				<item key="antpath" value="/home/estudiante/Documents/Programación/notasAlumnos/javadoc.xml"/>
+			</section>
+			<section name="PrimerosEjercicios.Java">
+				<item key="href" value=""/>
+				<item key="destdir" value="/home/estudiante/Documents/Programación/PrimerosEjercicios.Java/doc"/>
+				<item key="antpath" value="/home/estudiante/Documents/Programación/PrimerosEjercicios.Java/javadoc.xml"/>
+			</section>
+			<section name="Relacion7">
+				<item key="href" value=""/>
+				<item key="destdir" value="/home/estudiante/Documents/Programación/Relacion7/doc"/>
+				<item key="antpath" value="/home/estudiante/Documents/Programación/Relacion7/javadoc.xml"/>
+			</section>
+			<section name="EjerciciosGit">
+				<item key="href" value=""/>
+				<item key="destdir" value="/home/estudiante/Documents/Programación/EjerciciosGit/doc"/>
+				<item key="antpath" value="/home/estudiante/Documents/Programación/EjerciciosGit/javadoc.xml"/>
+			</section>
+		</section>
+	</section>
 </section>

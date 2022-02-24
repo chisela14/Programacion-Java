@@ -2,4 +2,5 @@
 <libraryInfos>
     <libraryInfo home="/home/estudiante/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_16.0.2.v20210721-1149/jre" version="16.0.2"/>
     <libraryInfo home="/home/estudiante/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_16.0.2.v20210721-1149" version="16.0.2"/>
+    <libraryInfo home="/usr/lib/jvm/java-1.11.0-openjdk-amd64" version="11.0.14"/>
 </libraryInfos>
