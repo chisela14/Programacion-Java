@@ -24,7 +24,7 @@ public class Carta {
 	public double getValor() {
 		double valor;
 		if (number >= 1 && number <=7) {
-			valor = number;
+			valor = this.number;
 		}else {
 			valor = 0.5;
 		}
