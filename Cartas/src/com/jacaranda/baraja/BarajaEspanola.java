@@ -1,7 +1,8 @@
 package com.jacaranda.baraja;
 
 public class BarajaEspanola extends Baraja {
-private static final int CARTAS_BARAJA_ESPANOLA = 40;
+	
+	private static final int CARTAS_BARAJA_ESPANOLA = 40;
 	
 	public BarajaEspanola () {
 		super (CARTAS_BARAJA_ESPANOLA);
