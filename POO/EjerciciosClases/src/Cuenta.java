@@ -15,7 +15,9 @@ public class Cuenta {
 		this.saldo = saldo;
 	}
 	//metodos
-	
+	public void hacerReintegro (int reintegro) {
+		saldo = saldo - reintegro;
+	}
 	
 	//hashcode
 	@Override
