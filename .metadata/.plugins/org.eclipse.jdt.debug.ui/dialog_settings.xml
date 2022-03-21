@@ -6,4 +6,8 @@
 	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn" value="1"/>
 	<section name="expressionHistory">
 	</section>
+	<section name="conditionHistory">
+		<item key="conditionHistoryEntry_0" value="if (i&lt;50) {&#x0A;&#x09;return false;&#x0A;}&#x0A;System.out.println(i + &quot;  iteration&quot;);&#x0A;return true;&#x0A;&#x09;"/>
+		<item key="conditionHistoryEntryCount" value="1"/>
+	</section>
 </section>

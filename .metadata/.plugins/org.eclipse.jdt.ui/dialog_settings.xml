@@ -64,8 +64,8 @@
 		<item key="RemoveFinal" value="false"/>
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="646"/>
-		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_X_ORIGIN" value="951"/>
+		<item key="DIALOG_Y_ORIGIN" value="101"/>
 		<item key="DIALOG_WIDTH" value="628"/>
 		<item key="DIALOG_HEIGHT" value="780"/>
 		<item key="DIALOG_FONT_NAME" value="1|Cantarell|11.0|0|GTK|1|"/>
@@ -216,5 +216,31 @@
 		<item key="ThrowRuntimeExceptions" value="false"/>
 		<item key="GenerateJavadoc" value="false"/>
 		<item key="AccessModifier" value="1"/>
+	</section>
+	<section name="DialogBounds_AddDelegateMethodsDialog">
+		<item key="DIALOG_X_ORIGIN" value="651"/>
+		<item key="DIALOG_Y_ORIGIN" value="253"/>
+		<item key="DIALOG_WIDTH" value="647"/>
+		<item key="DIALOG_HEIGHT" value="610"/>
+		<item key="DIALOG_FONT_NAME" value="1|Cantarell|11.0|0|GTK|1|"/>
+	</section>
+	<section name="nls_accessor_history">
+		<section name="0">
+			<item key="accessorName" value="Messages"/>
+			<item key="accessorPackage" value="=bloc_notas/src&lt;bloc_notas"/>
+			<item key="bundleName" value="messages.properties"/>
+			<item key="bundlePackage" value="=bloc_notas/src&lt;bloc_notas"/>
+		</section>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History/&gt;"/>
+	</section>
+	<section name="DialogBounds_SuperInterfaceSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="110"/>
+		<item key="DIALOG_Y_ORIGIN" value="-103"/>
+		<item key="DIALOG_WIDTH" value="416"/>
+		<item key="DIALOG_HEIGHT" value="590"/>
+		<item key="DIALOG_FONT_NAME" value="1|Cantarell|11.0|0|GTK|1|"/>
 	</section>
 </section>

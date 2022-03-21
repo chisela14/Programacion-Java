@@ -17,4 +17,8 @@
 		<item key="width" value="640"/>
 		<item key="height" value="586"/>
 	</section>
+	<section name="RefactoringWizard.Externalize strings in &apos;Nota.java&apos;">
+		<item key="width" value="600"/>
+		<item key="height" value="400"/>
+	</section>
 </section>
