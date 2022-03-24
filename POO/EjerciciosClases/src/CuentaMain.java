@@ -18,30 +18,53 @@ public class CuentaMain {
 		System.out.println("Introduce tu saldo: ");
 		int saldo = Integer.parseInt(teclado.nextLine());
 		Cuenta c1 = new Cuenta (saldo);
-		//mostrar menú al usuario
-		System.out.println("¿Qué opción quieres realizar con tu cuenta?: \nHacer un reintegro (R)\nHacer un ingreso (I)"
-				+ "\nConsultar el saldo y el número de ingresos y reintegros realizados (C)\nSalir (S)\n");
-		char opcion = teclado.nextLine().charAt(0);
-		//crear menú
+		
+		//inicializacion del booleano que marca cuando se sale del bucle, al principio no queremos salir
+		boolean salir = false;
+		//iniciliazion del contador para la opcion de consulta
+		int totalReintegros = 0, totalIngresos = 0;
+		
+		//Bucle para que muestre el menu al usuario siempre que no elija la opcion para finalizar
 		do {
+			//mostrar menu al usuario y guardar su eleccion
+			System.out.println("¿Qué opción quieres realizar con tu cuenta?: \nHacer un reintegro (R)\nHacer un ingreso (I)"
+					+ "\nConsultar el saldo y el número de ingresos y reintegros realizados (C)\nSalir (S)\n");
+			char opcion = teclado.nextLine().charAt(0);
+		
+			//crear switch con diferentes case segun las opciones
 			switch (opcion) {
 				case ('R'):{
 					System.out.println("Introduce la cantidad a retirar: ");
 					int reintegro = Integer.parseInt(teclado.nextLine());
 					c1.hacerReintegro (reintegro);
+					totalReintegros++;
 					break;
 				}
 				case ('I'): {
-					hacerIngreso ();
+					System.out.println("Introduce la cantidad a ingresar: ");
+					int ingreso = Integer.parseInt(teclado.nextLine());
+					c1.hacerIngreso (ingreso);
+					totalIngresos++;
 					break;
 				}
 				case ('C'):{
-					consultarDatos ();
+					System.out.println("Tu saldo es: " + c1.getSaldo() + ". Has realizado " + totalIngresos + " ingresos y " + totalReintegros + " reintegros.");
+					break;
+				}
+				case ('S'): {
+					System.out.println("¿Realmente desea salir?(S/N): ");
+					char confirmacion = teclado.nextLine().charAt(0);
+					if (confirmacion == 'S') {
+						System.out.println("Tu saldo es: " + c1.getSaldo());
+						salir = true;
+					}
 					break;
 				}
 			}
-		}while (opcion !='S');
-		
+		}while (salir == false);
 	}
 }
+		
+	
+
 

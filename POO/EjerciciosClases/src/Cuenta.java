@@ -15,8 +15,11 @@ public class Cuenta {
 		this.saldo = saldo;
 	}
 	//metodos
-	public void hacerReintegro (int reintegro) {
-		saldo = saldo - reintegro;
+	public void hacerReintegro (int dinero) {
+		saldo = saldo - dinero;
+	}
+	public void hacerIngreso (int dinero) {
+		saldo = saldo + dinero;
 	}
 	
 	//hashcode
