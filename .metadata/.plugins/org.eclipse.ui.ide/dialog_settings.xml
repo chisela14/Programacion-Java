@@ -21,6 +21,10 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/estudiante/Documents/ED/EEDD/jUnit/eedd-junit"/>
+			<item value="/home/estudiante/Documents/ED/EEDD/Caja_negra"/>
+			<item value="/home/estudiante/Documents/repositorios programacion/POO/EjerciciosClases"/>
+			<item value="/home/estudiante/Documents/repositorios programacion/POO/Relacion7"/>
 			<item value="/home/estudiante/Documents/Programación/POO/EjerciciosClases"/>
 			<item value="/home/estudiante/Documents/ED/EEDD/Ejemplo depuración/first"/>
 			<item value="/home/estudiante/Documents/ED/EEDD/Boletin_depuracion"/>

@@ -3,7 +3,7 @@
 	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="2"/>
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-16"/>
 	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo" value="false"/>
-	<item key="org.eclipse.jdt.ui.last.external.project" value="/home/estudiante/Documents/ED/ejercicio-malos-olores"/>
+	<item key="org.eclipse.jdt.ui.last.external.project" value="/home/estudiante/Documents/Programación/POO/Relacion7"/>
 	<item key="Replace" value="true"/>
 	<item key="InstanceOf" value="false"/>
 	<item key="SearchScopeActionGroup.search_scope_type" value="1"/>
@@ -256,5 +256,8 @@
 		<item key="SearchInAppLibs" value="true"/>
 	</section>
 	<section name="CallHierarchySearchScope">
+	</section>
+	<section name="SelfEncapsulateFieldWizard">
+		<item key="GenerateJavadoc" value="false"/>
 	</section>
 </section>
