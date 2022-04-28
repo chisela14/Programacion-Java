@@ -7,6 +7,7 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="String cadena;"/>
 			<item value="/* Realizar un método llamado numeroSolucionesEcuacionSegundoGrado que reciba los"/>
 			<item value="case &apos;+&apos;: {"/>
 		</list>
